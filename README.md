@@ -35,5 +35,7 @@ Maybe you don't know that to install the Linux-zen on manjaro it is not possible
    ```bash
    uname -r
    ```
+***Note: unfortunately to update the kernel, you have to carry out this procedure every time.***
+
 ENJOY!! 😜
 
