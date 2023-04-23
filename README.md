@@ -35,5 +35,5 @@ https://pkgs.org/search/?q=linux-zen
    ```bash
    uname -r
    ```
-
+ENJOY!! 😜
 
