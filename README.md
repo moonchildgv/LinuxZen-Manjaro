@@ -4,15 +4,15 @@ Maybe you don't know that to install the Linux-zen on manjaro it is not possible
 
 ***Why install zen kernel?***
 
-- *It a kernel tuned for performance, aimed at improving performance of 
+- It a kernel tuned for performance, aimed at improving performance of 
   desktops at the cost of throughput and power usage. It is also sometimes
    considered the best kernel for gaming. It has a low latency and 
-  high-frequency scheduling. The kernel facilitates faster speeds and features a more optimized scheduler. *
+  high-frequency scheduling. The kernel facilitates faster speeds and features a more optimized scheduler.
 1. to install it you need to go to: 
 
 https://pkgs.org/search/?q=linux-zen
 
-<img src="file:///home/mp/Immagini/linux-zen.jpg" title="" alt="linux-zen" width="694">
+![linux-zen](https://user-images.githubusercontent.com/34889283/233870450-6cd083f0-48ff-448c-bd42-30b994a49d59.jpg)
 
 2. click on it and go down to the item Download:
 
