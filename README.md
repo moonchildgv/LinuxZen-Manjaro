@@ -16,7 +16,7 @@ https://pkgs.org/search/?q=linux-zen
 
 2. click on it and go down to the item Download:
 
-![linux-zen1](/home/mp/Immagini/linux-zen1.jpg)
+![linux-zen1](https://user-images.githubusercontent.com/34889283/233870493-54d09202-de28-4cdf-950d-fbee517812ea.jpg)
 
 3. now write on terminal: wget + link just copied (in this case):
    
