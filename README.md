@@ -10,7 +10,7 @@ Maybe you don't know that to install the Linux-zen on manjaro it is not possible
   high-frequency scheduling. The kernel facilitates faster speeds and features a more optimized scheduler.
 1. to install it you need to go to: 
 
-https://pkgs.org/search/?q=linux-zen
+    https://pkgs.org/search/?q=linux-zen
 
 ![linux-zen](https://user-images.githubusercontent.com/34889283/233870450-6cd083f0-48ff-448c-bd42-30b994a49d59.jpg)
 
